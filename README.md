@@ -1,11 +1,12 @@
 ### Hello i'm oliver! 👋
 
 
-- 🔭 I’m currently working With **(devazex)[https://github.com/devazex]**
+- 🔭 I’m currently working With **[devazex](https://github.com/devazex)**
 - 🌱 I’m currently learning flutter
 - 🤔 I’m looking for help with nothing
-- 💬 Ask me about **[Here](https://github.com/devazex#programing-language)**
-- 🔰 All of my life and about me are available at **[My Portfolio](https://devazex.xyz/)**
+- 💬 Ask me about **[Here](https://github.com/oliver#programing-language)**
+- 🔰 All of my life and about me are available at **[My Portfolio](https://oliversv.xyz/
+)**
 - 📫 How to reach me: twitter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: programing
